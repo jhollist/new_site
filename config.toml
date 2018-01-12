@@ -3,7 +3,7 @@ theme = "hugo-geo"
 themesdir = "themes"
 relativeURLs = false
 languageCode = "en-us"
-title = "Jeffrey\nW.\nHollister"
+title = "Jeffrey W. Hollister"
 disqusShortname = "jhollist"
 paginate = 5
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -20,8 +20,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	analytics = "code-here"
 
 	email = "jeff.w.hollister@gmail.com"
-
-	profilepic = "img/profile.png"
+  #stash profile pic in static/img
+	profilepic = "conference_jeff.jpg"
 	
 	title = "Jeffrey W. Hollister"
 	subtitle = "Landscape Ecology, Lakes, GIS, R, and Open Science"
