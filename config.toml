@@ -1,11 +1,12 @@
-baseurl = "https://jhollist.github.io/new_site"
-theme = "themes/hugo-geo"
-themesdir = "../.."
+baseurl = ""
+theme = "hugo-geo"
+themesdir = "themes"
 relativeURLs = false
 languageCode = "en-us"
-title = "Jeffrey W. Hollister"
-disqusShortname = "shortcode-here"
+title = "Jeffrey\nW.\nHollister"
+disqusShortname = "jhollist"
 paginate = 5
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [taxonomies]
 	tag = "tags"
@@ -33,9 +34,9 @@ paginate = 5
 	[[params.socialbuttons]]
 	faicon = "twitter"
 	url = "https://twitter.com/jhollist"
-	[[params.socialbuttons]]
-	faicon = "email"
-	url = "mailto:jeff.w.hollister@gmail.com"
+	#[[params.socialbuttons]]
+	#faicon = "email"
+	#url = "mailto:jeff.w.hollister@gmail.com"
 	#[[params.socialbuttons]]
 	#faicon = "google-plus"
 	#url = "https://plus.google.com/+YourID"
@@ -47,6 +48,10 @@ paginate = 5
 	[[params.navlinks]]
 	name = "Blog"
 	url = ""
+	
+	[[params.navlinks]]
+	name = "Curriculum Vitae"
+	url = "cv.html"
 	
 	#[[params.navlinks]]
 	#name = "Tutorials"
