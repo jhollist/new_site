@@ -1,0 +1,53 @@
+baseurl = "https://jhollist.github.io/new_site"
+theme = "themes/hugo-geo"
+themesdir = "../.."
+relativeURLs = false
+languageCode = "en-us"
+title = "Jeffrey W. Hollister"
+disqusShortname = "shortcode-here"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	email = "jeff.w.hollister@gmail.com"
+
+	profilepic = "img/profile.png"
+	
+	title = "Jeffrey W. Hollister"
+	subtitle = "Landscape Ecology, Lakes, GIS, R, and Open Science"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/jhollist"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/jhollist"
+	[[params.socialbuttons]]
+	faicon = "email"
+	url = "mailto:jeff.w.hollister@gmail.com"
+	#[[params.socialbuttons]]
+	#faicon = "google-plus"
+	#url = "https://plus.google.com/+YourID"
+
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+	
+	#[[params.navlinks]]
+	#name = "Tutorials"
+	#url = "tutorial/"
