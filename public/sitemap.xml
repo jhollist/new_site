@@ -3,27 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tutorial/custom-css/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tutorial/getting-started/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <loc>/cv/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2015-07-28T09:51:51-04:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/welcome/</loc>
+    <loc>/2015/07/28/welcome-to-hugo-geo/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -34,14 +29,18 @@
   </url>
   
   <url>
+    <loc>/cv/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,31 +69,13 @@
   </url>
   
   <url>
-    <loc>/tags/series/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tutorial/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tutorials/</loc>
+    <loc>/topics/</loc>
     <priority>0</priority>
   </url>
   

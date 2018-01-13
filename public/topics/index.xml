@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Jeffrey W. Hollister</title>
+    <link>/topics/</link>
+    <description>Recent content in Topics on Jeffrey W. Hollister</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
+    
+	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

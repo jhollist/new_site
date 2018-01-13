@@ -6,62 +6,62 @@
     <description>Recent content on Jeffrey W. Hollister</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Compiling Custom CSS</title>
-      <link>/tutorial/custom-css/</link>
-      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tutorial/custom-css/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet molestie mauris nec tempor. Sed non lacus massa. Aliquam ut convallis velit. Etiam dictum mollis mi, a vestibulum ex suscipit ut. Proin viverra lacinia urna at interdum. Sed eu quam sit amet metus fermentum pharetra id a sem. Pellentesque lorem dolor, venenatis sed felis non, fringilla ornare felis. Donec nisi lorem, dignissim id interdum vel, cursus malesuada quam. Integer tempus consectetur tellus, nec sagittis est mattis vel.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started With hugo-geo</title>
-      <link>/tutorial/getting-started/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tutorial/getting-started/</guid>
-      <description>&lt;p&gt;Setting up and configuring hugo-geo is as simple as changing a few values in your site &lt;code&gt;config.toml&lt;/code&gt;. Lets look at this example site&amp;rsquo;s config and go over what
-each of hugo-geo&amp;rsquo;s site &lt;code&gt;[params]&lt;/code&gt; do.&lt;/p&gt;
-
-&lt;p&gt;If this guide doesn&amp;rsquo;t answer your question it may be covered in the &lt;a href=&#34;http://gohugo.io/overview/configuration/&#34;&gt;Hugo documentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/cv/</guid>
+      <description>Jeffrey William Hollister CV in pdf
+ updated: 2018-01-12 U.S. Environmental Protection Agency Atlantic Ecology Division 27 Tarzwell Drive Narragansett, RI 02881 (o)401 782 9655 (c)401 556 4087 hollister.jeff@epa.gov jwhollister.com Twitter: jhollist GitHub: jhollist ORCID: 0000-0002-9254-9740    Education Current Appointments Research Teaching Research Products Qualifications and Activities   Education  Dec 2004 Doctor of Philosophy in Environmental Science
+ Department of Natural Resources Science, University of Rhode Island, Kingston, RI</description>
     </item>
     
     <item>
       <title>About Me</title>
       <link>/about/</link>
-      <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
-      
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
       <guid>/about/</guid>
-      <description>This placeholder page could be your &amp;ldquo;about me&amp;rdquo; page, where you detail your contact information, portfolio pieces, and describe yourself and your goals.</description>
+      <description>I am a landscape ecologist with expertise in the spatial component of ecology and environmental sciences. I hold a Bachelor&amp;rsquo;s degree in Biology from Baker University, a Master&amp;rsquo;s Degree in Resource Ecology from Duke University, and a Ph. D. in Environmental Science from the University of Rhode Island. Since, May of 2006, I have worked as a Research Ecologist with the US EPA&amp;rsquo;s Atlantic Ecology Division in Narragansett, RI. My past experience is in applications of geospatial technologies (such as geographic information systems, spatial statistics, and remote sensing) to environmental research and broad scale environmental monitoring, modeling and assessment.</description>
     </item>
     
     <item>
       <title>Welcome to Hugo-Geo!</title>
-      <link>/post/welcome/</link>
+      <link>/2015/07/28/welcome-to-hugo-geo/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
-      
-      <guid>/post/welcome/</guid>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/07/28/welcome-to-hugo-geo/</guid>
       <description>Welcome to hugo-geo, a resposive theme for the Hugo static site generator. Hugo is designed for post and tutorial sections, and is perfect for personal portfolio or blog sites.
 Why don&amp;rsquo;t you check out the Getting Started Tutorial and find out how you can use hugo-geo and customize it to your liking.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/07/23/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/cv/</guid>
+      <description># Jeffrey William Hollister CV in pdf - updated: 2017-12-21 - U.S. Environmental Protection Agency - Atlantic Ecology Division - 27 Tarzwell Drive - Narragansett, RI 02881 - (o)401 782 9655 - (c)401 556 4087 - [hollister.jeff@epa.gov](hollister.jeff@epa.gov) - [jwhollister.com](http://jwhollister.com) - Twitter: [jhollist](https://twitter.com/jhollist) - GitHub: [jhollist](https://github.com/jhollist) - ORCID: [0000-0002-9254-9740](https://orcid.org/0000-0002-9254-9740)  - [Education](#education) - [Current Appointments](#current-appointments) - [Research](#research) - [Teaching](#teaching) - [Research Products](#research-products-and-presentations) - [Qualifications and Activities](#qualifications-and-activities)  Education Dec 2004 : Doctor of Philosophy in Environmental Science</description>
     </item>
     
   </channel>

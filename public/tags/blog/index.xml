@@ -6,6 +6,9 @@
     <description>Recent content in Blog on Jeffrey W. Hollister</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
     <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +16,10 @@
     
     <item>
       <title>Welcome to Hugo-Geo!</title>
-      <link>/post/welcome/</link>
+      <link>/2015/07/28/welcome-to-hugo-geo/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
-      
-      <guid>/post/welcome/</guid>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/07/28/welcome-to-hugo-geo/</guid>
       <description>Welcome to hugo-geo, a resposive theme for the Hugo static site generator. Hugo is designed for post and tutorial sections, and is perfect for personal portfolio or blog sites.
 Why don&amp;rsquo;t you check out the Getting Started Tutorial and find out how you can use hugo-geo and customize it to your liking.</description>
     </item>

@@ -1,0 +1,13 @@
+
+[about]
+    Name = "About"
+    URL = "/about"
+
+[blog]
+    Name = "Blog"
+    Title = "Blog"
+    URL = "/post"
+
+[cv]
+    Name = "Curriculum Vitae"
+    URL = "/cv"

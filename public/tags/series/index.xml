@@ -6,6 +6,9 @@
     <description>Recent content in Series on Jeffrey W. Hollister</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
     <lastBuildDate>Sat, 05 Mar 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/series/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +18,7 @@
       <title>Compiling Custom CSS</title>
       <link>/tutorial/custom-css/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
-      
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
       <guid>/tutorial/custom-css/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquet molestie mauris nec tempor. Sed non lacus massa. Aliquam ut convallis velit. Etiam dictum mollis mi, a vestibulum ex suscipit ut. Proin viverra lacinia urna at interdum. Sed eu quam sit amet metus fermentum pharetra id a sem. Pellentesque lorem dolor, venenatis sed felis non, fringilla ornare felis. Donec nisi lorem, dignissim id interdum vel, cursus malesuada quam. Integer tempus consectetur tellus, nec sagittis est mattis vel.</description>
     </item>
@@ -24,7 +27,7 @@
       <title>Getting Started With hugo-geo</title>
       <link>/tutorial/getting-started/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
       <guid>/tutorial/getting-started/</guid>
       <description>&lt;p&gt;Setting up and configuring hugo-geo is as simple as changing a few values in your site &lt;code&gt;config.toml&lt;/code&gt;. Lets look at this example site&amp;rsquo;s config and go over what
 each of hugo-geo&amp;rsquo;s site &lt;code&gt;[params]&lt;/code&gt; do.&lt;/p&gt;
