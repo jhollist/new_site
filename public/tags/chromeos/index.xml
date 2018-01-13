@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chromeos on Jeffrey W. Hollister</title>
+    <link>/tags/chromeos/</link>
+    <description>Recent content in Chromeos on Jeffrey W. Hollister</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RStudio Server on a Chromebook</title>
+      <link>/2018/01/12/rstudio-server-on-a-chromebook/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2018/01/12/rstudio-server-on-a-chromebook/</guid>
+      <description>Notes for setting up RStudio Server in a chroot set up chroot  sudo sh ~/Downloads/crouton -t cli-extra -n rstudio install R  sudo echo &amp;quot;deb http://cran.rstudio.com/bin/linux/ubuntu xenial/&amp;quot; | sudo tee -a /etc/apt/sources.list gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9 gpg -a --export E084DAB9 | sudo apt-key add - sudo apt-get update sudo apt-get install r-base r-base-dev install RStudio Server  sudo apt-get install gdebi-core wget https://download2.rstudio.org/rstudio-server-1.1.383-amd64.deb sudo gdebi rstudio-server-1.1.383-amd64.deb rm rstudio-server-1.1.383-amd64.deb open up firewall  sudo apt-get install nano sudo nano /etc/rc.</description>
+    </item>
+    
+    <item>
+      <title>Setting up an Asus Flip C302CA Chromebook for R Development</title>
+      <link>/2017/04/14/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2017/04/14/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</guid>
+      <description>Don’t think of this as a real blog post. It is mostly a loose collection of notes that I took while getting my new Asus Flip C302CA set up with R and RStudio. I’ve had this up and running for just a few days now (and in fact wrote this post using RStudio on it) and I love it. I highly recommend.
+The steps below are not really tested. So if you run into problems or I have missed something, let me know.</description>
+    </item>
+    
+    <item>
+      <title>Setting up an Asus Flip C302CA Chromebook for R Development</title>
+      <link>/1/01/01/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/1/01/01/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</guid>
+      <description>Don&amp;rsquo;t think of this as a real blog post. It is mostly a loose collection of notes that I took while getting my new Asus Flip C302CA set up with R and RStudio. I&amp;rsquo;ve had this up and running for just a few days now (and in fact wrote this post using RStudio on it) and I love it. I highly recommend.
+The steps below are not really tested. So if you run into problems or I have missed something, let me know.</description>
+    </item>
+    
+  </channel>
+</rss>

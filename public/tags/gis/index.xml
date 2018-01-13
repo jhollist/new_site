@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gis on Jeffrey W. Hollister</title>
+    <link>/tags/gis/</link>
+    <description>Recent content in Gis on Jeffrey W. Hollister</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
+    <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
+    <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
+    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Should `quickmapr` continue?</title>
+      <link>/2016/08/05/should-quickmapr-continue/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2016/08/05/should-quickmapr-continue/</guid>
+      <description>Throwing a question out to the interwebs. So about a year ago, I finished up development of my quickmapr package. It provides the ability to map and interact with sp and raster objects in their native coordinate reference system. Basic interaction includes zooming, panning, and identification and relies on spand raster plotting functions.
+I added in a first cut at basemaps from the USGS&amp;rsquo; National Map. It was a fun package to write and is (IMHO) pretty useful.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Data Analysis in R: Lightning Demo!</title>
+      <link>/2015/11/06/spatial-data-analysis-in-r-lightning-demo/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/11/06/spatial-data-analysis-in-r-lightning-demo/</guid>
+      <description>At this years NEARC meeting I decided to give a lightning talk on using R as a GIS. As I was working on this I thought, &amp;laquo;why not try a lightning demo?&amp;raquo; That would be better than five minutes of slides on packages and commands. But, as anyone who has done a live demo will know, they often provide unexpected challenges. Add a 5 minute limit to that, and well, some level of failure is sure to occur.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,53 +9,251 @@
     <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
     <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
     <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
-    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      <title>Bash Script</title>
+      <link>/tags/bash-script/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/tags/blog/</guid>
+      <guid>/tags/bash-script/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      <title>Categories</title>
+      <link>/tags/categories/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/tags/hugo/</guid>
+      <guid>/tags/categories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Chromebook</title>
+      <link>/tags/chromebook/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/tags/plot/</guid>
+      <guid>/tags/chromebook/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Chromeos</title>
+      <link>/tags/chromeos/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/chromeos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Crontab</title>
+      <link>/tags/crontab/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/tags/regression/</guid>
+      <guid>/tags/crontab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crouton</title>
+      <link>/tags/crouton/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/crouton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exiftool</title>
+      <link>/tags/exiftool/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/exiftool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gis</title>
+      <link>/tags/gis/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Drive</title>
+      <link>/tags/google-drive/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/google-drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grive</title>
+      <link>/tags/grive/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/grive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>/tags/hacking/</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Httr</title>
+      <link>/tags/httr/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/httr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>/tags/jekyll/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan</title>
+      <link>/tags/pan/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raster</title>
+      <link>/tags/raster/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/raster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rss</title>
+      <link>/tags/rss/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio Server</title>
+      <link>/tags/rstudio-server/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/rstudio-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shapefiles</title>
+      <link>/tags/shapefiles/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/shapefiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sp</title>
+      <link>/tags/sp/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Data</title>
+      <link>/tags/spatial-data/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/spatial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>/tags/visualization/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiwi</title>
+      <link>/tags/xiwi/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/xiwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>/tags/zoom/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/tags/zoom/</guid>
       <description></description>
     </item>
     

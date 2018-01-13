@@ -9,30 +9,141 @@
     <managingEditor>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</managingEditor>
     <webMaster>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</webMaster>
     <copyright>(c) 2018 Jeffrey W. Hollister</copyright>
-    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to Hugo-Geo!</title>
-      <link>/2015/07/28/welcome-to-hugo-geo/</link>
-      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      <title>RStudio Server on a Chromebook</title>
+      <link>/2018/01/12/rstudio-server-on-a-chromebook/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/2015/07/28/welcome-to-hugo-geo/</guid>
-      <description>Welcome to hugo-geo, a resposive theme for the Hugo static site generator. Hugo is designed for post and tutorial sections, and is perfect for personal portfolio or blog sites.
-Why don&amp;rsquo;t you check out the Getting Started Tutorial and find out how you can use hugo-geo and customize it to your liking.</description>
+      <guid>/2018/01/12/rstudio-server-on-a-chromebook/</guid>
+      <description>Notes for setting up RStudio Server in a chroot set up chroot  sudo sh ~/Downloads/crouton -t cli-extra -n rstudio install R  sudo echo &amp;quot;deb http://cran.rstudio.com/bin/linux/ubuntu xenial/&amp;quot; | sudo tee -a /etc/apt/sources.list gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9 gpg -a --export E084DAB9 | sudo apt-key add - sudo apt-get update sudo apt-get install r-base r-base-dev install RStudio Server  sudo apt-get install gdebi-core wget https://download2.rstudio.org/rstudio-server-1.1.383-amd64.deb sudo gdebi rstudio-server-1.1.383-amd64.deb rm rstudio-server-1.1.383-amd64.deb open up firewall  sudo apt-get install nano sudo nano /etc/rc.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Setting up an Asus Flip C302CA Chromebook for R Development</title>
+      <link>/2017/04/14/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2017/04/14/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</guid>
+      <description>Don’t think of this as a real blog post. It is mostly a loose collection of notes that I took while getting my new Asus Flip C302CA set up with R and RStudio. I’ve had this up and running for just a few days now (and in fact wrote this post using RStudio on it) and I love it. I highly recommend.
+The steps below are not really tested. So if you run into problems or I have missed something, let me know.</description>
+    </item>
+    
+    <item>
+      <title>Should `quickmapr` continue?</title>
+      <link>/2016/08/05/should-quickmapr-continue/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2016/08/05/should-quickmapr-continue/</guid>
+      <description>Throwing a question out to the interwebs. So about a year ago, I finished up development of my quickmapr package. It provides the ability to map and interact with sp and raster objects in their native coordinate reference system. Basic interaction includes zooming, panning, and identification and relies on spand raster plotting functions.
+I added in a first cut at basemaps from the USGS&amp;rsquo; National Map. It was a fun package to write and is (IMHO) pretty useful.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Data Analysis in R: Lightning Demo!</title>
+      <link>/2015/11/06/spatial-data-analysis-in-r-lightning-demo/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/11/06/spatial-data-analysis-in-r-lightning-demo/</guid>
+      <description>At this years NEARC meeting I decided to give a lightning talk on using R as a GIS. As I was working on this I thought, &amp;laquo;why not try a lightning demo?&amp;raquo; That would be better than five minutes of slides on packages and commands. But, as anyone who has done a live demo will know, they often provide unexpected challenges. Add a 5 minute limit to that, and well, some level of failure is sure to occur.</description>
+    </item>
+    
+    <item>
+      <title>I finally got quickmapr on CRAN!</title>
+      <link>/2015/10/30/i-finally-got-quickmapr-on-cran/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/10/30/i-finally-got-quickmapr-on-cran/</guid>
+      <description>A little over 7 months ago I posted about a package that I had been working on, quickmapr. That was the pre-release version, the one that I finished up today and submitted to CRAN is a bit more polished, plots rasters a bit quicker, and is, I think, ready for wider release. It is now availble from CRAN.
+The README on GitHub provides details plus some examples using a small dataset included with the package.</description>
+    </item>
+    
+    <item>
+      <title>Download Shapefiles - Take 2</title>
+      <link>/2015/06/15/download-shapefiles---take-2/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/06/15/download-shapefiles---take-2/</guid>
+      <description>So back in 2013 I posted a little function I wrote for grabbing all the relevant files that make up a shapefile from a URL. Turns out it doesn&amp;rsquo;t play so well with Windows 7 or Windows 8 (HT: John Lewis). Below is a reprised version that at least works on Ubuntu 14.04 and Windows 7. Haven&amp;rsquo;t tested it beyond that and supressing the warnings to get httr::GET to not complain too much about FTP seems a bit unclean.</description>
+    </item>
+    
+    <item>
+      <title>quickmapr: An R package for mapping and interacting with spatial data</title>
+      <link>/2015/03/13/quickmapr-an-r-package-for-mapping-and-interacting-with-spatial-data/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/03/13/quickmapr-an-r-package-for-mapping-and-interacting-with-spatial-data/</guid>
+      <description>I do a lot of GIS. That used to mean firing up any one of the esri products, but over the course of the last couple of years I have done that less and less and instead fired up R.
+When I first started using R for my spatial analysis work I often was left struggling with viewing the results of my analysis and could only do so with a clunky workflow of pushing my sp or raster objects out to shapefiles or tiffs and then pulling those into Arcmap.</description>
+    </item>
+    
+    <item>
+      <title>Automatically Organizing Photographs on Google Drive: Why isn&#39;t this already a thing?</title>
+      <link>/2015/02/02/automatically-organizing-photographs-on-google-drive-why-isnt-this-already-a-thing/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2015/02/02/automatically-organizing-photographs-on-google-drive-why-isnt-this-already-a-thing/</guid>
+      <description>Over the last year or so, my wife and I have been moving most our files onto Google Drive. This has worked great as we have access across all of our devices. The last vestiges of local storage have been our photos. With the recent purchase of a Chromebook (which I&amp;rsquo;ve been impressed with but that is a different post&amp;hellip;) and the 1TB of Google Drive storage that came with it, I decided to take the plunge and get our photos up their too.</description>
+    </item>
+    
+    <item>
+      <title>Getting a Category Feed Up and Running with Jekyll on Github</title>
+      <link>/2014/10/09/getting-a-category-feed-up-and-running-with-jekyll-on-github/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2014/10/09/getting-a-category-feed-up-and-running-with-jekyll-on-github/</guid>
+      <description>Now that I have the site up and running, I am now trying to add a few category specific RSS feeds. I will say that for someone who is new to RSS (i.e. me) the feeds on Wordpress are really easy. But, since I now fancy myself somewhat of hacker, I suppose figuring out how to get a Jekyll site hosted on Github to spit these out is something I should do.</description>
+    </item>
+    
+    <item>
+      <title>Colophon: jwhollister.com v0.2.0</title>
+      <link>/2014/10/08/colophon-jwhollister.com-v0.2.0/</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/2014/10/08/colophon-jwhollister.com-v0.2.0/</guid>
+      <description>Hard to believe that in less than a year I am now on the third version of my website. First one was me hacking at bootstrap. I knew next to nothing then, but was able to get a minimal site up and running. Since then I have learned quite a bit more about web design, Jekyll, hosting on github, and am a much better hacker than I was then (although still not a good one).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/1/01/01/</guid>
+      <description>BoundaryOther_BNDHASH   BoundaryOther_BNDHASH Metadata also available as Metadata:  Identification_Information Data_Quality_Information Spatial_Data_Organization_Information Spatial_Reference_Information Entity_and_Attribute_Information Distribution_Information Metadata_Reference_Information     Identification_Information:   Citation:   Citation_Information:   Originator: GIS Database Administrator Publication_Date: 20120216 Publication_Time: unknown Title: BoundaryOther_BNDHASH Edition: 2011A Geospatial_Data_Presentation_Form: vector digital data Series_Information:   Series_Name:  Vermont village, town, county, state and RPC boundaries, from best available sources  Issue_Identification: 2011A   Publication_Information:   Publication_Place: Waterbury VT 05676 Publisher: GIS Database Administrator   Other_Citation_Details: Tile Structure - STATE Online_Linkage:  &amp;lt;http://www.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/1/01/01/</guid>
+      <description>Notes for setting up RStudio Server in a chroot  set up chroot  sudo sh ~/Downloads/crouton -t cli-extra -n rstudio   install R  sudo echo &amp;quot;deb http://cran.rstudio.com/bin/linux/ubuntu xenial/&amp;quot; | sudo tee -a /etc/apt/sources.list gpg --keyserver keyserver.ubuntu.com --recv-key E084DAB9 gpg -a --export E084DAB9 | sudo apt-key add - sudo apt-get update sudo apt-get install r-base r-base-dev   install RStudio Server  sudo apt-get install gdebi-core wget https://download2.</description>
+    </item>
+    
+    <item>
+      <title>I finally got quickmapr on CRAN!</title>
+      <link>/1/01/01/i-finally-got-quickmapr-on-cran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/1/01/01/i-finally-got-quickmapr-on-cran/</guid>
+      <description>A little over 7 months ago I posted about a package that I had been working on, quickmapr. That was the pre-release version, the one that I finished up today and submitted to CRAN is a bit more polished, plots rasters a bit quicker, and is, I think, ready for wider release. It is now availble from CRAN.
+The README on GitHub provides details plus some examples using a small dataset included with the package.</description>
+    </item>
+    
+    <item>
+      <title>Setting up an Asus Flip C302CA Chromebook for R Development</title>
+      <link>/1/01/01/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jeff.w.hollister@gmail.com (Jeffrey W. Hollister)</author>
+      <guid>/1/01/01/setting-up-an-asus-flip-c302ca-chromebook-for-r-development/</guid>
+      <description>Don&amp;rsquo;t think of this as a real blog post. It is mostly a loose collection of notes that I took while getting my new Asus Flip C302CA set up with R and RStudio. I&amp;rsquo;ve had this up and running for just a few days now (and in fact wrote this post using RStudio on it) and I love it. I highly recommend.
+The steps below are not really tested. So if you run into problems or I have missed something, let me know.</description>
     </item>
     
   </channel>

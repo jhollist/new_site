@@ -1,11 +1,5 @@
 ---
-date: "2018-01-12"
-draft: false
-output:
-  markdown_document:
-    css: public/css/pdf.css
 ---
-
 <div id="address">
  
 # Jeffrey William Hollister
@@ -199,8 +193,7 @@ Peer Reviewed Articles
        
       - Raposa, K. B., R. A. McKinney, C. Wigand, J. W. Hollister, C. Lovall, K. Szura, J. A. Gurak Jr., J. McNamee, C. Raithel, and E. B. Watson. (Submitted). Top-down and bottom-up controls on overabundant New England salt marsh crab populations. PeerJ. [GitHub](https://github.com/jhollist/crabs)
       
-      
-  : 2010 - Present<!--: Accepted -->
+  : 2010 - Present
   
        - Hollister, J. W. and J. J. Stachelek. (2017). lakemorpho: Calculating lake morphometry metrics in R.  F1000Research. 6:1718. [10.12688/f1000research.12512.1](https://dx.doi.org/10.12688/f1000research.12512.1). [pdf](http://f1000research.com/articles/6-1718/v1/pdf) [GitHub](https://github.com/usepa/lakemorpho_manuscript)
   
